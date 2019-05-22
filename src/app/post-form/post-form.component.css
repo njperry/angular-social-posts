@@ -1,0 +1,34 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 60px;
+    background-color: white;
+    position: fixed;
+    background-color: lightblue;
+    border: 1px solid black;
+    border-radius: 5px;
+    left: 21%;
+    top: 21%;
+}
+
+label {
+    padding: 10px;
+    font-size: 25px;
+}
+
+button {
+    width: 500px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+input {
+    border-radius: 5px;
+}
+
+textarea {
+    border-radius: 5px;
+}
